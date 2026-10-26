@@ -1,0 +1,12 @@
+name: CSMrFaiergmTest
+version: '${version}'
+
+main: org.mrfaiergm_studios.cSMrFaiergmTest.CSMrFaiergmTest
+api-version: '1.21'
+commands:
+  t:
+    description: "dddd"
+  ct:
+    description: "dfddd"
+  start:
+    description: "start"
